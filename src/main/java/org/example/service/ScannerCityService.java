@@ -9,8 +9,8 @@ import java.util.List;
 import java.util.Scanner;
 
 @Slf4j
-public class ScannerCity {
-    public ScannerCity(String fileName) {
+public class ScannerCityService {
+    public ScannerCityService(String fileName) {
         this.fileName = fileName;
     }
 

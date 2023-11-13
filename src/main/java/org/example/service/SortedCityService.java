@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class SortedCity {
+public class SortedCityService {
 
     /**
      * Сортировка списка городов по наименованию в алфавитном порядке по убыванию без учета регистра
